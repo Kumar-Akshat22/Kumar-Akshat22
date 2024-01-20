@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **CSS, Tailwind CSS, JavaScript or Content Writing**
+- 💬 Ask me about **CSS, Tailwind CSS, JavaScript, or Content Writing**
 
 - 📫 How to reach me **kakshat247@gmail.com**
 
