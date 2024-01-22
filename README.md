@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-akshat22&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-akshat22" /> </p>
 
-- 🔭 I’m currently working on **Front-End Web Development**
+- 🔭 I’m currently working on **Back-End Web Development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Express.js, MongoDB**
 
 - 💬 Ask me about **CSS, Tailwind CSS, JavaScript, or Content Writing**
 
