@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Back-End Web Technologies**
 
-- 🌱 I’m currently learning **Express.js, MongoDB**
+- 🌱 I’m currently learning **Authentication, Authorization, Express.js, MongoDB**
 
 - 💬 Ask me about **React.js, JavaScript, CSS, Tailwind CSS, Website Deployment or Content Writing**
 
