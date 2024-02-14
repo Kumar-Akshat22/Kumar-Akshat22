@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Authentication, Authorization, Express.js, MongoDB**
 
-- 💬 Ask me about **React.js, JavaScript, CSS, Tailwind CSS, Website Deployment or Content Writing**
+- 💬 Ask me about **React.js, JavaScript, Express.js, CSS, Tailwind CSS, Website Deployment, or Content Writing**
 
 - 📫 How to reach me **kakshat247@gmail.com**
 
